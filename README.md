@@ -1,2 +1,3 @@
-# algo
-algoritmika curse... GitHub (delete this repository)
+# Введение
+Это приложение меня заставили скомпилировать и залить на гитхаб
+# да
